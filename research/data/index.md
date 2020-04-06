@@ -3,12 +3,6 @@ layout: base
 title: data
 ---
 
-<div class="blurb">
-
-<p> Here is the data </p>
-  
- </div>
-
 
 ## Faculty
 
